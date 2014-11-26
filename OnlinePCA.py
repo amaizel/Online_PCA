@@ -1,4 +1,3 @@
-#teste
 def direction(N):
     
     B  = np.random.randn(2,N)
